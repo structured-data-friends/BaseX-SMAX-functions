@@ -1,3 +1,6 @@
+# If you are looking for the transparent invisible XML function
+please refer to https://github.com/nverwer/basex-tixml-xar .
+
 # BaseX-SMAX-functions
 
 This project contains Java classes that define XQuery functions for use in [BaseX](https://basex.org/).
